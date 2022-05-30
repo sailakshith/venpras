@@ -1,0 +1,25 @@
+.btn-gr {
+  background-color: #346f71;
+  color: white;
+}
+.jumbo, .card{
+  border: 1px solid #346f71;
+  border-radius: 5px;
+}
+.top-buffer {
+  margin-bottom: 20px;
+}
+
+.row {
+  justify-content: center;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  margin: 10px;
+}
+.card-title{
+  text-align: center;
+}
