@@ -1,0 +1,33 @@
+.navbar,.card-footer {
+  background-color: #346f71;
+}
+
+.header{
+  margin-top: 10px;
+}
+
+.icon{
+  width:17px;
+  height:17px;
+  fill:orange;
+  object-fit: cover;
+}
+.nav-link,.navbar-brand, .btn{
+ color:white;
+}
+.navbar-toggler-icon{
+ background-color:black
+}
+.navbar-toggler{
+
+ background-color: white;
+}
+img{
+width:150px;
+height:150px;
+object-fit: cover;
+}
+.content{
+margin:20px;
+}
+.top-buffer { margin-bottom:20px; }
